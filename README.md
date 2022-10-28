@@ -7,4 +7,4 @@
 
 
 --->
-https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067" alt="ryayla's 42 Libft Score" /></a>
