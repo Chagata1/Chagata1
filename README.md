@@ -7,7 +7,6 @@
 
 
 ---></a>
-
   <table widht="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
   <td style="padding:0; margin:0;">
