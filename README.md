@@ -13,6 +13,6 @@
 |Project|Score| 
 | :-	|	:-:	|
 | Libft <img width=150>|[![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://profile.intra.42.fr/users/ryayla)
-| get_next_line <img width=150| [![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://github.com/JaeSeoKim/badge42)
+| get_next_line <img width=150>| [![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://github.com/JaeSeoKim/badge42)
 
 
