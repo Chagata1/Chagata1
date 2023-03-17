@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and Data Structures at École 42 Kocaeli
 
 --->
-[![ryayla's 42 stats](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/stats?cursusId=21&coalitionId=232)](https://profile.intra.42.fr/users/ryayla)
+[![ryayla's 42 stats](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
 
 ---></a>
   <table widht="200%" align="center">
@@ -12,5 +12,6 @@
 
 |Project|Score| 
 | :-	|	:-:	|
-| Libft <img width=150>|[![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://profile.intra.42.fr/users/ryayla)
-| get_next_line <img width=150>| [![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://github.com/JaeSeoKim/badge42)
+| Libft <img width=150>|[![ryayla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2826067)](https://github.com/JaeSeoKim/badge42)
+| get_next_line <img width=150>|[![ryayla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2911996)](https://github.com/JaeSeoKim/badge42)
+| ft_printf[![ryayla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2904548)](https://github.com/JaeSeoKim/badge42)
