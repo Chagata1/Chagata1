@@ -16,4 +16,3 @@
 | get_next_line <img width=150>|[![ryayla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2911996)](https://github.com/JaeSeoKim/badge42)
 | ft_printf <img width=150>|[![ryayla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/2904548)](https://github.com/JaeSeoKim/badge42)
 | born2beroot <img width=150>|[![ryayla's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9sa4uqn01110fm6xx1pa1fk/project/3002236)](https://github.com/JaeSeoKim/badge42)
-<iframe src="https://gamma.app/embed/5cgx18g2j0qd5tp" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Boston Dynamics: Revolutionizing the Robotics Industry"></iframe>
